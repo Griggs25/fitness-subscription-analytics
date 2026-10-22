@@ -18,17 +18,3 @@ This repository contains a comprehensive data analysis of FitnessHub's customer 
 * **2025 Cohort Break-Even:** Took **10 months** to reach the break-even point.
 * **Strategic Takeaway:** The time-to-recover CAC is lengthening. This indicates that while acquisition costs are rising or retention is shortening, the current strategy is becoming **unsustainable** over the long run unless immediate adjustments are made to improve mid-funnel retention.
 
----
-
-## Repository Structure
-fitness-subscription-analytics/
-│
-├── README.md                          # Executive brief and business insights
-├── Fitness_Hub_Workbook.twbx          # Packaged Tableau Workbook (Data + Layout)
-├── data/
-│   └── Fitness_Subscriptions_Dataset.xlsx  # Cleaned primary data layer
-└── screenshots/
-    ├── cohort_analysis.png            # Visual matrix showing retention patterns
-    ├── revenue_forecast.png           # 12-month trendline with confidence bands
-    ├── cac_vs_ltv.png                 # Break-even cross-over chart
-    └── data_model.png                 # Logical relationship layer screenshot
