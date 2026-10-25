@@ -18,3 +18,10 @@ This repository contains a comprehensive data analysis of FitnessHub's customer 
 * **2025 Cohort Break-Even:** Took **10 months** to reach the break-even point.
 * **Strategic Takeaway:** The time-to-recover CAC is lengthening. This indicates that while acquisition costs are rising or retention is shortening, the current strategy is becoming **unsustainable** over the long run unless immediate adjustments are made to improve mid-funnel retention.
 
+## Actionable Business Recommendations
+
+Based on the findings above, FitnessHub leadership should implement the following strategic adjustments:
+
+* **Intervene Prior to the Day-90 Mark:** Since the churn cliff hits precisely between months 3 and 4, introduce an automated "Milestone Check-in" email or push notification at Day 75. Offer an updated, advanced workout progression or a complimentary coaching session to re-engage plateauing users.
+* **Capitalize on January Cohorts with Pre-paid Commitments:** Leverage the massive January seasonality spike by heavily promoting discounted 6-month or 12-month upfront membership packages. Securing a multi-month commitment at sign-up completely bypasses the standard Month 3 voluntary cancellation risk.
+* **Reallocate Underperforming 2025 Channels:** Because the 2025 cohort takes an additional 3 months to break even compared to 2024, drill down into acquisition sources. Dial back spending on high-cost paid social media ads that pull in low-retention trial users, and pivot marketing capital into organic referral programs which naturally carry higher lifetime values.
